@@ -1,0 +1,26 @@
+{
+  "conference name" : "اسم المؤتمر",
+  "conference date" : "تاريخ الأنعقاد",
+  "conference type" : "نوع المؤتمر",
+  "conference address" : "مكان المؤتمر",
+  "internal conference" : "مؤتمر داخل الكلية",
+  "external conference" : "مؤتمر خارجى",
+  "choose conference type" : "أختار نوع المؤتمر",
+  "conference organizer" : "الجهة المنظمة للمؤتمر",
+  "choose conference organizer" : "أختار الجهة المنظمة للمؤتمر",
+  "conference website" : "الموقع الألكترونى للمؤتمر",
+  "other info" : "معلومات أضافية",
+
+  "View conferences": "قائمة المؤتمرات",
+  "Add conference": "إضافة مؤتمر",
+  "Edit conference": "تعديل مؤتمر",
+  "Delete conference": "حذف مؤتمر",
+  "Delete a conference Confirmation": "هل انت متاكد من حذف هذه المؤتمر",
+  "New Conference Added": "تم إضافة  المؤتمر بنجاح",
+  "Conference Edited": "تم تعديل المؤتمر بنجاح",
+  "Conference Deleted": "تم حذف المؤتمر بنجاح",
+
+  "Added": "تمت الأضافة بنجاح",
+  "Updated": "تم التحديث بنجاح",
+  "Deleted": "تم الحذف بنجاح",
+}
